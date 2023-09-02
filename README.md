@@ -19,6 +19,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/shivam-gupta-5a996a20b/](https://www.linkedin.com/in/shivam-gupta-5a996a20b/)
 
 - ⚡ Fun fact **Roughly 10% of the world's money is physical. ...😎**
+- <p>Hii, I am Shivam Gupta from Sundernagar, Himachal Pradesh, India. I am 20 years old and pursuing final year B.Tech(CSE) from ABVGIET PRGATINAGAR(SHIMLA). To work for an organization where proffessionalism and enthusiasm are recognized and continuously acquire skills in emerging trends and to achieve a position as a web developer. I have a wide range of skills that include front-end(HTMLS,CSS3,JAVASCRIPT).I am ambitious and driven. I thrive on challenges and constantly set goals for myself, so I have something to strive towards. I am not comfortable with settling, and I am always looking for an opportunity to do better and achieve greatness. My strength as a self-motivated person and a good learner. Positive thinker & a hard worker.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
