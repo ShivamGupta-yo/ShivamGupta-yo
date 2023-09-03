@@ -13,6 +13,7 @@ I am a Web Developer student and have keen interest in coding :)
 * 🧠  I'm learning JavaScript ☺️
 * 🤝  I'm open to collaborating on Web Development Projects 🌱
 * ⚡  I'm Cristiano Ronaldo... don't tell everyone🤫
+* ✌️ Go through my experiences : https://drive.google.com/file/d/1Rd8Zjy0o-2Oe-RwJMiEmiAyQeZcGg95S/view?usp=drive_link
 
 ### Skills
 
