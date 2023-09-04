@@ -1,3 +1,4 @@
+![Visitor_Count](https://profile-counter.glitch.me/{ShivamGuptaDev}/count.svg)
 ![logo](https://github.com/ShivamGuptaDev/ShivamGuptaDev/blob/main/finaltemplate.png)
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SHIVAM GUPTA
@@ -38,4 +39,4 @@ I am a Web Developer student and have keen interest in coding :)
 
 <div width="100%" align="center"><a href="https://github.com/GoldReigner/AMAZON" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldReigner&repo=AMAZON&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GoldReigner/StudentPortal" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldReigner&repo=StudentPortal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-![Visitor_Count](https://profile-counter.glitch.me/{ShivamGuptaDev}/count.svg)
+
