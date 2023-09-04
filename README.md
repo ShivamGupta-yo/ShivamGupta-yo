@@ -1,8 +1,8 @@
-![logo](https://github.com/GoldReigner/GoldReigner/blob/main/finaltemplate.png)
+![logo](https://github.com/ShivamGuptaDev/ShivamGuptaDev/blob/main/finaltemplate.png)
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SHIVAM GUPTA
 ====================================================================================================================================
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{ShivamGuptaDev}/count.svg)
 Student intern
 --------------
 
