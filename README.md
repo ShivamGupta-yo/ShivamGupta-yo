@@ -1,10 +1,12 @@
 ![image title](https://rushter.com/counter.svg)
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SHIVAM GUPTA
 ====================================================================================================================================
 
 Student Programmer
 ------------------
-![Profile Views](https://profile.codersrank.io/github/ShivamGupta-yo)
+]
 
 
  <img align="right" alt="coding" width="500" src="https://github.com/ShivamGuptaDev/ShivamGuptaDev/assets/112889717/7ca8bd4a-9631-4a43-8850-26ee67373656">
