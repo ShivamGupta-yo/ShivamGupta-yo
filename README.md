@@ -5,8 +5,7 @@ Student Programmer
 ------------------
 
 
-
- <img align="right" alt="coding" width="500" src="https://github.com/ShivamGuptaDev/ShivamGuptaDev/assets/112889717/7ca8bd4a-9631-4a43-8850-26ee67373656">
+ <img align="right" alt="coding" width="500" src="https://github.com/ShivamGupta-yo/ShivamGupta-yo/assets/112889717/481a3d3c-aea4-4612-81f9-399fe9216fec">
 😎I am a Web Developer student and have keen interest in coding :)
 
 🌱I am a tech-enthusiast and an avid learner. I am very passionate and dedicated to learning and implementing what I have learned with my work.👋 I am a team player and a good leader. 
