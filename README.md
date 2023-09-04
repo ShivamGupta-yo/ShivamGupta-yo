@@ -1,8 +1,8 @@
 
 ![logo](https://github.com/ShivamGuptaDev/ShivamGuptaDev/blob/main/finaltemplate.png)
-# <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ <img align="right" alt="coding" width="500" src="https://github.com/ShivamGuptaDev/ShivamGuptaDev/assets/112889717/7ca8bd4a-9631-4a43-8850-26ee67373656">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SHIVAM GUPTA
-![12](https://github.com/ShivamGuptaDev/ShivamGuptaDev/assets/112889717/7ca8bd4a-9631-4a43-8850-26ee67373656)
+
 
 ====================================================================================================================================
 
