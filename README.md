@@ -17,7 +17,7 @@ Student Programmer
 * 🧠  I'm learning JavaScript ☺️
 * 🤝  I'm open to collaborating on Web Development Projects 🌱
 * ⚡  I'm Cristiano Ronaldo... don't tell everyone🤫
-* 📑 Check out my Resume at : https://drive.google.com/file/d/16pIXng84HI2S6SG7NcumWFD9rBsaBbxJ/view?usp=drive_link
+* 📑 Check out my Resume at : https://drive.google.com/file/d/1UrX6VnbwibbkvgNpKIvz2OtvZU_jkRLm/view?usp=sharing
 
 ### Skills
 
