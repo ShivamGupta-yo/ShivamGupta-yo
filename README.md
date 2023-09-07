@@ -13,7 +13,7 @@ Student Programmer
 👀My approach towards life and work is very optimistic. I am a critical thinker with good organizational skills. Although I occasionally get overwhelmed with my work that doesn't stop me from being consistent. I have good communication skills and will be able to make good relationships and put my thoughts on the table for the team.
 
 * 🌍  I'm based in SunderNagar
-* ✉️  You can contact me at [shivam1234snr@gmail.com](mailto:shivam1234snr@gmail.com)
+* 🔗 You can contact me at [https://shivamgupta-yo.netlify.app/]
 * 🧠  I'm learning JavaScript ☺️
 * 🤝  I'm open to collaborating on Web Development Projects 🌱
 * ⚡  I'm Cristiano Ronaldo... don't tell everyone🤫
