@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 ![Banner](https://github.com/ShivamGupta-yo/ShivamGupta-yo/assets/112889717/6ca9d576-22ef-42a8-be89-c4a84fed93bc)
 
-Student Programmer
+Web Developer
 ------------------
 
 
