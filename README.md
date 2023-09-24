@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgupta-yo&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgupta-yo" /> </p>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SHIVAM GUPTA
 ====================================================================================================================================
 ![Banner](https://github.com/ShivamGupta-yo/ShivamGupta-yo/assets/112889717/6ca9d576-22ef-42a8-be89-c4a84fed93bc)
