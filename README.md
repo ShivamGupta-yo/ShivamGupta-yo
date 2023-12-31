@@ -19,7 +19,7 @@ Web Developer
 * 🧠  I'm learning React.js and node.js ☺️
 * 🤝  I'm open to collaborating on Web Development Projects 🌱
 * ⚡  I'm Cristiano Ronaldo... don't tell everyone🤫
-* 📑 Check out my Resume at : https://drive.google.com/file/d/1UrX6VnbwibbkvgNpKIvz2OtvZU_jkRLm/view?usp=sharing
+* 📑 Check out my Resume at : https://drive.google.com/file/d/1qMqeJhsPuYuPLfZd00w261HTig2b1S8o/view?usp=drive_link
 
 ### Skills
 
